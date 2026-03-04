@@ -30,3 +30,6 @@ Customer Retention Risk Analytics Dataset
 
 <img src="customer-retention-SQL.1.png" width="800">
 
+## OUR MAIN PROJECT:
+https://github.com/atulmali2510/customer-retention-risk-analytics
+
