@@ -27,3 +27,6 @@ Customer Retention Risk Analytics Dataset
 - Provide onboarding support for new customers
 ##Customer  Analysis using SQL Processes To Work
 <img src="customer-retention-SQL.png" width="800">
+
+<img src="customer-retention-SQL.1.png" width="800">
+
